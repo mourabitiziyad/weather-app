@@ -3,7 +3,7 @@ import Titles from './components/Titles';
 import Form from "./components/Form";
 import Weather from "./components/Weather";
 
-const API_KEY = "4944a74b55634ff3ff3f03f3bca87cdd";
+const API_KEY = "4944a74b55634ff3ff3f03f3bca87cdd"; // I know it's public, I don't care
 const ID = "2538027";
 class App extends React.Component{
   state = {
